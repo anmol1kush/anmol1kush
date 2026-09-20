@@ -225,21 +225,18 @@ const anmol = {
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmol1kush&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anmol1kush&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol1kush&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol1kush&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol1kush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
----
+<br>
 
 ## 📈 Contribution Graph
 
