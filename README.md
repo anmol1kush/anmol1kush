@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=70A5FD&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Anmol+Kushwaha+👋;Full-Stack+Developer+💻;Software+Engineer+🚀;AI%2FML+Enthusiast+🤖;Building+Scalable+%26+Intelligent+Systems+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=70A5FD&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Anmol+Kushwaha+👋;Software+Engineer+🚀;AI%2FML+Enthusiast+🤖;Full-Stack+Developer;Building+Scalable+%26+Intelligent+Systems+⚡" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/anmol1kush">
 <img src="https://komarev.com/ghpvc/?username=anmol1kush&label=Profile%20Views&color=70A5FD&style=flat" alt="Profile Views"/>
