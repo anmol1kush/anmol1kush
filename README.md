@@ -230,7 +230,7 @@ const anmol = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmol1kush&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=anmol1kush&theme=tokyonight&hide_border=true" />
 
 </div>
 
